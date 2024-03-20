@@ -1,0 +1,19 @@
+.button-form {
+    background-color: #D45161;
+    border-radius: 15px;
+    border: none;
+    padding: 12px 25px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+    width: 100%;
+
+        color: #222222;
+        font-size: 20px;
+        font-weight: 600;
+    
+    cursor: pointer;
+}

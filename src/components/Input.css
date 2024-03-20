@@ -1,0 +1,9 @@
+.form-top-inputs {
+    height: 54px;
+    background: #333333;
+    border: none;
+    border-radius: 15px;
+    flex: 1;
+
+    padding: 15px 25px;
+}

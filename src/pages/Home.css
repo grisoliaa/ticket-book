@@ -1,0 +1,62 @@
+.container-all7 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-esquerda-home {
+    padding: 140px 0px 0px 0px;
+    width: 630px;
+}
+
+.h1-title-home {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.h1-button-home {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.button-content-home {
+    background: #333333;
+    padding: 15px 20px;
+    width: 200px;
+    border-radius: 15px;
+    border: none;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-button-home {
+    display: flex;
+    gap: 15px;
+}
+
+.h1-minitext-home {
+    color: #FFFFFF80;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.container-content-home {
+    margin-top: 80px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.last-button-home {
+    width: 270px;
+    height: 30px;
+
+    margin-top: 60px;
+}
+
+.container-direita-home {
+    margin-top: 100px;
+}

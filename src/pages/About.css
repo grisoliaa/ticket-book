@@ -1,0 +1,51 @@
+.container-all2 {
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-title {
+    display: flex;
+    align-items: center;
+}
+
+.h1-bottom-content {
+    font-size: 18px;
+    color: #FFFFFF80;
+    font-weight: 500;
+
+    width: 730px;
+    height: 173px;
+}
+
+.bottom-content {
+    display: flex;
+    flex-direction: column;
+    gap: 110px;
+    margin-top: 80px;
+}
+
+.content1 {
+    display: flex;
+    gap: 100px;
+}
+
+.content2 {
+    display: flex;
+    gap: 100px;
+}
+
+.content3 {
+    display: flex;
+    gap: 100px;
+}
+
+.icon-content {
+    height: 125px;
+    width: 170px;
+}
+
+.span-bottom-content {
+    color: white;
+}

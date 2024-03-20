@@ -1,0 +1,28 @@
+.h1-terceiro-rodape {
+  font-size: 15px;
+  font-weight: 500;
+  color: #FFFFFF;
+}
+
+.terceiro-rodape {
+  display: flex;
+  gap: 110px;
+}
+
+.primeiro-rodape {
+  display: flex;
+  gap: 20px;
+}
+
+.h1-primeiro-rodape {
+  font-size: 15px;
+  font-weight: 500;
+  color: #FFFFFF80;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  width: 100%;
+}

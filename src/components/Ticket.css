@@ -1,0 +1,66 @@
+.card-all {
+    width: 400px;
+    background-color: #333333;
+  
+    border-radius: 15px;
+    border: 1px;
+    padding: 20px;
+  }
+
+.header-card {
+  font-size: 22px;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+
+.card-info {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  
+    border-bottom: 1px solid #55555580;
+    padding: 0px 0px 15px 0px;
+  }
+
+.info-date-location {
+  display: flex;
+  gap: 15px;
+}
+
+.info-date-h1 {
+  color: #FFFFFF;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.info-time-h1 {
+  color: #FFFFFF80;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.info-location-h1 {
+  color: #FFFFFF;
+  font-size: 15px;
+  font-weight: 400;
+
+  margin-left: 5px;
+}
+
+.info-location {
+  margin-left: 4px;
+}
+
+.info-content-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.info-ticket-h1 {
+  color: #D45161;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 15px;
+}
